@@ -45,7 +45,7 @@
     },
     "require-dev": {
         "phpdocumentor/reflection-docblock": "^5.2",
-        "vlucas/phpdotenv": "^3",
+        "vlucas/phpdotenv": "^5",
         "ennexa/amp-update-cache": "dev-master",
         "phpunit/phpunit": "^9",
         "amphp/php-cs-fixer-config": "dev-master",
